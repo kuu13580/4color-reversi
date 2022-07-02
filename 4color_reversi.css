@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+#myCanvas {
+    transform-origin: left top;
+    background: #b8ffb8;
+    display: block;
+    position: relative;
+    width: fit-content;
+}
+
+#blank {
+    transform-origin: left top;
+    display: block;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+#turnshow {
+    display: block;
+}
